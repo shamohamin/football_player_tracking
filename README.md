@@ -11,7 +11,7 @@ Because every area, of the frame, has different features, such as upper area has
 
 - Upper Area: which we do [Erosion](https://docs.opencv.org/4.5.2/d9/d61/tutorial_py_morphological_ops.html) first for removing the Banners and anything the above them.
 
-- Middel Area: we do erosion first for removing the ball and any noises, Then we do [Dilation](https://docs.opencv.org/4.5.2/d9/d61/tutorial_py_morphological_ops.html) for making players bigger. 
+- Middel Area: we do [Erosion](https://docs.opencv.org/4.5.2/d9/d61/tutorial_py_morphological_ops.html) first for removing the ball and any other noises. Then we do [Dilation](https://docs.opencv.org/4.5.2/d9/d61/tutorial_py_morphological_ops.html) for making players bigger. 
 
 - Lower Area: Because in the lower area players are much bigger than two other areas, we do [Closing](https://docs.opencv.org/4.5.2/d9/d61/tutorial_py_morphological_ops.html).
 
