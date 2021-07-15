@@ -5,7 +5,7 @@ In this Repo, we have provided the tracking of football players using Background
 
 ## Detection(First Part)
 
-For detecting player we have used [Background Subtraction Methods](https://docs.opencv.org/master/d8/d38/tutorial_bgsegm_bg_subtraction.html) such as MOG2, KNN, ... .
+For detecting players we have used [Background Subtraction Methods](https://docs.opencv.org/master/d8/d38/tutorial_bgsegm_bg_subtraction.html) such as MOG2, KNN, etc.
 
 Because every area, of the frame, has different features, such as upper area has a lot of noise and players are smaller than lower areas, ...,  We have split the frame into 3 section:
 
@@ -64,5 +64,5 @@ We have four different trained models(that you can see in `model_4, model_5, mod
 
 
 ### sample 3 
-
+-
 ![alt text](./screenshots/football.gif)
