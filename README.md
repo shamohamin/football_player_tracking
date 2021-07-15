@@ -11,3 +11,26 @@ In this Repo, we have provided the tracking of football players using background
 
     python main.py
 ```
+
+## Outputs
+
+### sample 1
+detection
+- 
+![alt text](./screenshots/detection_1.png)
+
+classification
+- 
+![alt text](./screenshots/classify_1.png)
+
+### sample 2
+
+detection
+- 
+![alt text](./screenshots/detection_2.png)
+
+classification
+- 
+![alt text](./screenshots/classify_2.png)
+
+
