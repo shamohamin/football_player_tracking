@@ -15,22 +15,28 @@ In this Repo, we have provided the tracking of football players using background
 ## Outputs
 
 ### sample 1
-detection
+
+#### detection
 - 
 ![alt text](./screenshots/detection_1.png)
 
-classification
+#### classification
+
 - 
 ![alt text](./screenshots/classify_1.png)
 
 ### sample 2
 
-detection
+#### detection
+
 - 
 ![alt text](./screenshots/detection_2.png)
 
-classification
+#### classification
 - 
 ![alt text](./screenshots/classify_2.png)
 
 
+### sample 3 
+
+![alt text](./screenshots/football.gif)
