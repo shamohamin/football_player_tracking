@@ -17,7 +17,8 @@ Because every area, of the frame, has different features, such as upper area has
 
 all you can see in `get_blobs` function in `main.py` file. feel free to change the kernels and see what will happend.
 
-### Classification(Second Part)
+
+## Classification(Second Part)
 
 For classifying players of the teams and referees, we have used Neural Network. 
 
