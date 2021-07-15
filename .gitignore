@@ -1,0 +1,14 @@
+*/__pycache__
+__pycache__
+
+*.zip
+*.tflite
+white
+blue
+good
+referee
+roi
+roi_2
+my_test
+model
+model_[1-3]
