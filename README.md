@@ -20,7 +20,7 @@ all you can see in `get_blobs` function in `main.py` file. feel free to change t
 
 ## Classification(Second Part)
 
-For classifying players of the teams and referees, we have used Neural Network. 
+For classifying players of the teams and referees, we have used Neural Network. Our framework for building the Neural Network Tensorflow(Keras). 
 
 Our dataset was from https://datasets.simula.no/alfheim/ that provides us with three points of view from the football field.
 
